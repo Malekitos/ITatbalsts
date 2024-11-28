@@ -1,0 +1,113 @@
+[14-Nov-2024 18:17:43 Europe/Riga] PHP Notice:  Undefined index: lietotajloma in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 39
+[14-Nov-2024 18:18:11 Europe/Riga] PHP Notice:  Undefined index: lietotajloma in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 39
+[14-Nov-2024 18:18:47 Europe/Riga] PHP Notice:  Undefined index: lietotajloma in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 39
+[14-Nov-2024 18:19:25 Europe/Riga] PHP Notice:  Undefined index: lietotajloma in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 39
+[14-Nov-2024 18:19:43 Europe/Riga] PHP Notice:  Undefined index: lietotajloma in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 39
+[14-Nov-2024 18:19:45 Europe/Riga] PHP Notice:  Undefined index: lietotajloma in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 39
+[14-Nov-2024 18:22:02 Europe/Riga] PHP Notice:  Undefined index: lietotajloma in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 39
+[14-Nov-2024 18:22:04 Europe/Riga] PHP Notice:  Undefined index: lietotajloma in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 39
+[14-Nov-2024 18:23:09 Europe/Riga] PHP Notice:  Undefined index: lietotajloma in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 39
+[14-Nov-2024 18:23:39 Europe/Riga] PHP Notice:  Undefined index: lietotajloma in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 39
+[14-Nov-2024 18:38:59 Europe/Riga] PHP Notice:  Undefined index: lietotajloma in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 39
+[14-Nov-2024 18:40:55 Europe/Riga] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 43
+[14-Nov-2024 18:40:57 Europe/Riga] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 43
+[14-Nov-2024 18:41:24 Europe/Riga] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 42
+[14-Nov-2024 18:41:30 Europe/Riga] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 42
+[14-Nov-2024 18:41:59 Europe/Riga] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 42
+[14-Nov-2024 18:42:00 Europe/Riga] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 42
+[14-Nov-2024 19:28:10 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/database/pieteikums_dati.php on line 9
+[14-Nov-2024 19:28:10 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/database/pieteikums_dati.php on line 17
+[14-Nov-2024 19:28:10 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/database/pieteikums_dati.php on line 25
+[14-Nov-2024 19:28:10 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/database/pieteikums_dati.php on line 33
+[14-Nov-2024 19:28:10 Europe/Riga] PHP Notice:  Undefined variable: jauni_pieteikumi in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 46
+[14-Nov-2024 19:28:10 Europe/Riga] PHP Notice:  Undefined variable: atverti_pieteikumi in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 54
+[14-Nov-2024 19:28:10 Europe/Riga] PHP Notice:  Undefined variable: gaida_pieteikumi in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 62
+[14-Nov-2024 19:28:10 Europe/Riga] PHP Notice:  Undefined variable: visi_pieteikumi in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 70
+[14-Nov-2024 19:28:21 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/database/pieteikums_dati.php on line 9
+[14-Nov-2024 19:28:21 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/database/pieteikums_dati.php on line 17
+[14-Nov-2024 19:28:21 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/database/pieteikums_dati.php on line 25
+[14-Nov-2024 19:28:21 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/database/pieteikums_dati.php on line 33
+[14-Nov-2024 19:28:21 Europe/Riga] PHP Notice:  Undefined variable: jauni_pieteikumi in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 46
+[14-Nov-2024 19:28:21 Europe/Riga] PHP Notice:  Undefined variable: atverti_pieteikumi in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 54
+[14-Nov-2024 19:28:21 Europe/Riga] PHP Notice:  Undefined variable: gaida_pieteikumi in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 62
+[14-Nov-2024 19:28:21 Europe/Riga] PHP Notice:  Undefined variable: visi_pieteikumi in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 70
+[14-Nov-2024 19:30:57 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 88
+[14-Nov-2024 19:31:11 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 92
+[14-Nov-2024 19:31:35 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 92
+[14-Nov-2024 19:32:22 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 92
+[14-Nov-2024 19:32:44 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 92
+[14-Nov-2024 19:33:15 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 92
+[14-Nov-2024 19:33:24 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 92
+[14-Nov-2024 19:34:23 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 92
+[14-Nov-2024 19:35:26 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 92
+[14-Nov-2024 19:36:01 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 92
+[14-Nov-2024 19:36:05 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 92
+[14-Nov-2024 19:36:59 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 92
+[14-Nov-2024 19:37:10 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 92
+[14-Nov-2024 19:37:18 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 92
+[14-Nov-2024 19:37:29 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 92
+[14-Nov-2024 19:37:36 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 92
+[14-Nov-2024 19:37:45 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 92
+[14-Nov-2024 19:38:02 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 92
+[14-Nov-2024 19:38:06 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 92
+[14-Nov-2024 19:39:38 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 92
+[14-Nov-2024 19:41:47 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 98
+[14-Nov-2024 19:42:02 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 98
+[14-Nov-2024 19:42:30 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 96
+[14-Nov-2024 19:43:06 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 96
+[14-Nov-2024 19:43:24 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 96
+[14-Nov-2024 19:43:35 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 96
+[14-Nov-2024 19:43:48 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 96
+[14-Nov-2024 19:44:04 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 96
+[14-Nov-2024 19:44:15 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 96
+[14-Nov-2024 19:44:44 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 96
+[14-Nov-2024 19:45:14 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 96
+[14-Nov-2024 19:45:26 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 96
+[14-Nov-2024 19:45:57 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 96
+[14-Nov-2024 19:46:16 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 96
+[14-Nov-2024 19:46:41 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 96
+[14-Nov-2024 19:46:56 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 96
+[14-Nov-2024 19:47:21 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 96
+[14-Nov-2024 19:47:50 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 96
+[14-Nov-2024 19:48:06 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 96
+[14-Nov-2024 19:48:20 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 96
+[14-Nov-2024 19:48:39 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 96
+[14-Nov-2024 19:48:53 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 96
+[14-Nov-2024 19:48:59 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 96
+[14-Nov-2024 19:49:03 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 96
+[14-Nov-2024 19:49:24 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 96
+[14-Nov-2024 19:50:06 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 96
+[14-Nov-2024 19:50:18 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 96
+[14-Nov-2024 19:51:11 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 97
+[14-Nov-2024 19:51:11 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 126
+[14-Nov-2024 19:51:47 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 93
+[14-Nov-2024 19:51:57 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 97
+[14-Nov-2024 19:52:12 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 97
+[14-Nov-2024 19:52:35 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 93
+[14-Nov-2024 19:53:57 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 95
+[14-Nov-2024 19:54:52 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 97
+[14-Nov-2024 19:54:52 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 126
+[14-Nov-2024 19:55:50 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 97
+[14-Nov-2024 19:55:50 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 126
+[14-Nov-2024 20:04:34 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 91
+[14-Nov-2024 20:04:41 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 91
+[14-Nov-2024 20:30:05 Europe/Riga] PHP Notice:  Undefined variable: pdo in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/database/pieteikumi_graph.php on line 4
+[14-Nov-2024 20:30:05 Europe/Riga] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/database/pieteikumi_graph.php:4
+Stack trace:
+#0 /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php(94): require()
+#1 {main}
+  thrown in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/database/pieteikumi_graph.php on line 4
+[14-Nov-2024 20:32:59 Europe/Riga] PHP Notice:  Undefined variable: pdo in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/database/pieteikumi_graph.php on line 4
+[14-Nov-2024 20:32:59 Europe/Riga] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/database/pieteikumi_graph.php:4
+Stack trace:
+#0 /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php(94): require()
+#1 {main}
+  thrown in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/database/pieteikumi_graph.php on line 4
+[14-Nov-2024 20:34:56 Europe/Riga] PHP Notice:  Undefined variable: pdo in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/database/pieteikumi_graph.php on line 4
+[14-Nov-2024 20:34:56 Europe/Riga] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/database/pieteikumi_graph.php:4
+Stack trace:
+#0 /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php(94): require()
+#1 {main}
+  thrown in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/database/pieteikumi_graph.php on line 4
+[14-Nov-2024 21:43:45 Europe/Riga] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/database/pieteikums_dati.php on line 33
+[14-Nov-2024 21:43:45 Europe/Riga] PHP Notice:  Undefined variable: visi_pieteikumi in /home2/grobina1/public_html/3pt2/svilis/ITatbalsts/admin/index.php on line 69
